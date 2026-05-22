@@ -35,9 +35,9 @@ Coming soon. Stay tuned!
 - *2024.12* **National Scholarship** (Ministry of Education, China), Top 0.3%
 - *2026.04* National Undergraduate Software Innovation Competition, **National Third Prize**
 - *2025.12* National Undergraduate Financial Technology Innovation Competition, **Regional First Prize**
-- *Repeatedly* Outstanding Student, Harbin Institute of Technology
-- *Repeatedly* Second-Class People's Scholarship, Harbin Institute of Technology
-- *Repeatedly* May Fourth Outstanding Youth League Member, Harbin Institute of Technology
+- **Repeatedly** Outstanding Student, Harbin Institute of Technology
+- **Repeatedly** Second-Class People's Scholarship, Harbin Institute of Technology
+- **Repeatedly** May Fourth Outstanding Youth League Member, Harbin Institute of Technology
 
 # 📖 Educations
 - *2023.08 - now*, B.Eng. in Computer Science, Harbin Institute of Technology.

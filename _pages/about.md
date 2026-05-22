@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate student at Harbin Institute of Technology, where I study Computer Science. I am fortunate to have closely collaborated with Prof. Beichen Zhang during my undergraduate studies.
+I am a third-year undergraduate student at Harbin Institute of Technology, where I study Computer Science. I am fortunate to have closely collaborated with [Prof. Beichen Zhang](https://homepage.hit.edu.cn/beiczhang) during my undergraduate studies.
 
 My research interests lie at the intersection of AI Agent, AI Safety, and Computer Vision. I am deeply fascinated by the potential of intelligent systems to perceive, reason, and act in complex environments, and I am continuously exploring broader frontiers across the rapidly evolving landscape of artificial intelligence.
 
@@ -31,7 +31,7 @@ My research interests lie at the intersection of AI Agent, AI Safety, and Comput
 
 Coming soon. Stay tuned!
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2024.12* **National Scholarship** (Ministry of Education, China), Top 0.3%
 - *2026.04* National Undergraduate Software Innovation Competition, **National Third Prize**
 - *2025.12* National Undergraduate Financial Technology Innovation Competition, **Regional First Prize**

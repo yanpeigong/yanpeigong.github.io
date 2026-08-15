@@ -19,9 +19,9 @@ redirect_from:
 
 I am a third-year undergraduate student at Harbin Institute of Technology, where I study Computer Science. I am fortunate to have closely collaborated with [Prof. Beichen Zhang](https://homepage.hit.edu.cn/beiczhang) during my undergraduate studies.
 
-My research interests lie at the intersection of Agentic AI and Computer Vision (especially visual self-supervised learning). I am deeply fascinated by the potential of intelligent systems to perceive, reason, and act in complex environments, and I am continuously exploring broader frontiers across the rapidly evolving landscape of artificial intelligence.
+My research interests lie at the intersection of Agentic AI and Computer Vision, particularly visual self-supervised learning. I am especially interested in developing intelligent systems that can perceive, reason, and act in complex environments.
 
-🤝 I am always open to thoughtful conversations about research and am genuinely excited to exchange ideas with fellow researchers and practitioners. As I look ahead, I am actively seeking PhD/graduate program opportunities, hoping to dive deeper into the questions that excite me most. I am also open to industry internship opportunities in AI-related areas, where I can contribute meaningfully while continuing to learn and grow. Please feel free to contact me via email or WeChat: gyp_null if you are interested.
+🤝 I welcome opportunities to discuss research and exchange ideas. I am currently seeking PhD/graduate study and AI-related internship opportunities. Please feel free to contact me via email or WeChat (gyp_null).
 
 
 # 🔥 News
@@ -32,6 +32,7 @@ My research interests lie at the intersection of Agentic AI and Computer Vision 
 Coming soon. Stay tuned! For the complete list, please visit my <a href="https://scholar.google.com.hk/citations?user=h9Vs5-sAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 # 🏆 Honors and Awards
+- *2026.08* National Marine Vehicle Design and Production Competition, **National Grand Prize (1st Place Nationwide)**
 - *2024.12* **National Scholarship** (Ministry of Education, China), Nationwide Top 0.3%
 - *2026.04* National Undergraduate Software Innovation Competition, **National Third Prize**
 - *2025.12* National Undergraduate Financial Technology Innovation Competition, **Regional First Prize**
@@ -44,5 +45,5 @@ Coming soon. Stay tuned! For the complete list, please visit my <a href="https:/
 
 # 🔬 Research Experience
 - *2024.08 - present*, Research Intern, Cross-Media Intelligence Research Center, Harbin Institute of Technology.
-- *2025.09 - 2026.01*, Research Intern, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences.
 - *2025.11 - present*, Research Assistant, Shenzhen International Graduate School, Tsinghua University.
+- *2025.09 - 2026.01*, Research Intern, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences.

@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate student at Harbin Institute of Technology, where I study Computer Science. I am fortunate to have closely collaborated with [Prof. Beichen Zhang](https://homepage.hit.edu.cn/beiczhang) during my undergraduate studies.
+I am a final-year undergraduate student in Computer Science at Harbin Institute of Technology (HIT). During my undergraduate studies, I have been fortunate to work closely with [Prof. Beichen Zhang](https://homepage.hit.edu.cn/beiczhang).
 
-My research interests lie at the intersection of Agentic AI and Computer Vision, particularly visual self-supervised learning. I am especially interested in developing intelligent systems that can perceive, reason, and act in complex environments.
+I will join [ZIP Lab](https://ziplab.co/) at Zhejiang University (ZJU) as a master's student, co-advised by Prof. [Bohan Zhuang](https://bohanzhuang.github.io/) and Prof. [Zijian Guo](https://zijguo.github.io/index.html).
 
-🤝 I welcome opportunities to discuss research and exchange ideas. I am currently seeking PhD/graduate study and AI-related internship opportunities. Please feel free to contact me via email or WeChat (gyp_null).
+My current research interests center on efficient AI systems. I am particularly interested in building AI systems that are not only capable, but also efficient and practical in real-world settings.
+
+🤝 I welcome opportunities to discuss research and exchange ideas, and I am also open to industry opportunities. Please feel free to contact me via email or WeChat (`gyp_null`).
 
 
 # 🔥 News

@@ -44,6 +44,6 @@ Coming soon. Stay tuned! For the complete list, please visit my <a href="https:/
 - *2023.08 - now*, B.Eng. in Computer Science, Harbin Institute of Technology.
 
 # 🔬 Research Experience
-- *2024.08 - present*, Research Intern, Cross-Media Intelligence Research Center, Harbin Institute of Technology.
+- *2024.08 - 2026.06*, Research Intern, Cross-Media Intelligence Research Center, Harbin Institute of Technology.
 - *2025.11 - 2026.09*, Research Assistant, Shenzhen International Graduate School, Tsinghua University.
 - *2025.09 - 2026.01*, Research Intern, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences.

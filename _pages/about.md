@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year undergraduate student in Computer Science at Harbin Institute of Technology (HIT). During my undergraduate studies, I have been fortunate to work closely with [Prof. Beichen Zhang](https://homepage.hit.edu.cn/beiczhang).
+I am a final-year undergraduate student majoring in Computer Science and Technology at Harbin Institute of Technology (HIT). During my undergraduate studies, I have been fortunate to work closely with [Prof. Beichen Zhang](https://homepage.hit.edu.cn/beiczhang).
 
 I will join [ZIP Lab](https://ziplab.co/) at Zhejiang University (ZJU) as a master's student, co-advised by Prof. [Bohan Zhuang](https://bohanzhuang.github.io/) and Prof. [Zijian Guo](https://zijguo.github.io/index.html). My current research interests center on efficient AI systems. I am particularly interested in building AI systems that are not only capable, but also efficient and practical in real-world settings.
 

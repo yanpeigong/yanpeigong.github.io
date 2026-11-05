@@ -171,4 +171,8 @@
 
 .author__urls_sm{
   display: none;
+
+  @media (max-width: $large) {
+    display: block;
+  }
 }

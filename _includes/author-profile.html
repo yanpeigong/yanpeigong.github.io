@@ -40,6 +40,9 @@
       {% if author.twitter %}
         <li><a href="https://x.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
+      {% if author.zhihu %}
+        <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i> 知乎</a></li>
+      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
@@ -134,6 +137,9 @@
       {% endif %}
       {% if author.twitter %}
         <a href="https://x.com/{{ author.twitter }}" aria-label="Twitter"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.zhihu %}
+        <a href="https://www.zhihu.com/people/{{ author.zhihu }}" aria-label="知乎"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.facebook %}
         <a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i></a>
